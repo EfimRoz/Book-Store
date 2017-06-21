@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-
+    <h1> No, *MY* foot here </h1>
     <book-list></book-list>
     <!--<router-view></router-view>-->
   </div>
